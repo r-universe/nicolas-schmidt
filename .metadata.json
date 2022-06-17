@@ -1,0 +1,14 @@
+[
+  {
+    "package": "BayesSPsurv",
+    "oncran": true
+  },
+  {
+    "package": "esaps",
+    "oncran": true
+  },
+  {
+    "package": "speech",
+    "oncran": true
+  }
+]
