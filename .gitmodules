@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BayesMFSurv"]
 	path = BayesMFSurv
 	url = https://github.com/nicolas-schmidt/bayesmfsurv
-	shallow = true
-	registered = true
 [submodule "BayesSPsurv"]
 	path = BayesSPsurv
 	url = https://github.com/nicolas-schmidt/bayesspsurv
-	shallow = true
-	registered = true
 [submodule "esaps"]
 	path = esaps
 	url = https://github.com/nicolas-schmidt/esaps
-	shallow = true
-	registered = true
 [submodule "speech"]
 	path = speech
 	url = https://github.com/nicolas-schmidt/speech
-	shallow = true
-	registered = true
